@@ -31,6 +31,8 @@ contract Aprende_Blockchain {
     }
 
 }
+
+
 2.	Explicación:
 
 A través de la implementación del código smart contrac se busca llevar una idea por medio de diferentes procesos como la definición y análisis de conceptos, aplicaciones y funcionalidades básicas que brinda la herramienta BlockChain, en este primer avance se realiza un código de una pequeña demostración del funcionamiento de las divisas sobre las cuales se ha realizado un análisis de la forma de trabajo de un Smart Contarct que cumple con labor de analizar y tomar decisiones bajo una serie de parámetros que son definidas por un diseñador o desarrollador; Como por ejemplo un juego que incluye un usuario y un premio mediante la ejecución de preguntas que se responden de manera secuencial y según sea la respuesta se otorgara un premio al dicho jugador podemos afirmar que este programa es capaz de analizar patrones de juego y establecer un puntaje según su resultado.
